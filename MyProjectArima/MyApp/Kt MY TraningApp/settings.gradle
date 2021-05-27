@@ -1,0 +1,3 @@
+include ':ClickButton'
+include ':app'
+rootProject.name = "MyTraningApp"
