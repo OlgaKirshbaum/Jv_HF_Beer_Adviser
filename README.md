@@ -56,7 +56,7 @@
 ------------------
 ### Источник:
 Учебник Java HF -  К. Сьерра, Б. Бейтс - Изучаем Java (Мировой компьтерный бестселлер) - 2012 Head first / 718
-Официальный код: https://tinyurl.com/HeadFirstAndroid
+Официальный код: https://github.com/dogriffiths/HeadFirstAndroid2ndEdition
 
 ### Изображение приложения:
 
