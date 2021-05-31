@@ -58,4 +58,7 @@
 Учебник Java HF -  К. Сьерра, Б. Бейтс - Изучаем Java (Мировой компьтерный бестселлер) - 2012 Head first / 718
 Официальный код: https://tinyurl.com/HeadFirstAndroid
 
+### Изображение приложения:
+
+![Screenshot_1622454024](https://user-images.githubusercontent.com/77355204/120174819-33d72300-c20e-11eb-89bc-daeaeac6ef54.png)
 
