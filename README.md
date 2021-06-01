@@ -55,8 +55,9 @@
 
 ------------------
 ### Источник:
-Учебник Java HF -  К. Сьерра, Б. Бейтс - Изучаем Java (Мировой компьтерный бестселлер) - 2012 Head first / 718
-Официальный код: https://github.com/dogriffiths/HeadFirstAndroid2ndEdition
+
+* Head First. Программирование для Android / Гриффитс Дон, Гриффитс Дэвид / Питер, 2018 / 912 c. /   
+* Коды из книги: https://github.com/dogriffiths/HeadFirstAndroid2ndEdition   
 
 ### Изображение приложения:
 
